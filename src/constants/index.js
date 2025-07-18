@@ -25,8 +25,8 @@ export const PROYECTOS = [
     titulo: "Portfolio Web",
     imagen: proyecto2,
     descripcion:
-      "Un portfolio personal mostrando mis proyectos, habilidades e información de contacto.",
-    tecnologias: ["HTML", "TailwindCss", "React", "Motion Framer", "Vercel"],
+      "Un portfolio personal mostrando mis proyectos, tecnologías e información de contacto.",
+    tecnologias: ["HTML", "TailwindCss", "React", "Vercel"],
   },
 ];
 
