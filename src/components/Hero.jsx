@@ -1,5 +1,5 @@
 import { HERO_CONTENIDO } from "../constants/index.js"
-import imagenPerfil from "../assets/imagenPerfil.png"
+{/*import imagenPerfil from "../assets/raviKumarProfile.webp   "*/}
 import {motion} from "framer-motion"
 
 const containerVariants = {
@@ -24,11 +24,13 @@ const Hero = () => {
     <div className="pb-4 lg:mb-36">
         <div className="flex flex-wrap lg:flex-row-reverse">
             <div className="w-full lg:w-1/2">
+                {/*
                 <div className="flex justify-center lg:p-8">
                     <motion.img src={imagenPerfil} alt="Imagen de Perfil" className="border
                      border-stone-900 rounded-3xl" width={650} height={650} initial={{ x:100, opacity: 0}}
                      animate={{x: 0, opacity: 1}} transition={{ duration: 1, delay: 1.5}}/>
                 </div>
+                */}
             </div>
             <div className="w-full lg:w-1/2">
                 <motion.div
