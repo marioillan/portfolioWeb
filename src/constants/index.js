@@ -20,6 +20,8 @@ export const PROYECTOS = [
     descripcion:
       "SuperComparador es una aplicación web diseñada como un proyecto de la universidad para ayudar a los usuarios a encontrar los supermercados Mercadona, Alcampo y DIA más cercanos, así como a comparar productos y guardarlos como favoritos para facilitar sus decisiones de compra.",
     tecnologias: ["HTML", "CSS", "React", "Supabase", "Vercel"],
+    code: "https://github.com/marioillan/supercomparadorWEB",
+    demo: "https://supercomparador.vercel.app/",
   },
   {
     titulo: "Portfolio Web",
@@ -27,6 +29,8 @@ export const PROYECTOS = [
     descripcion:
       "Un portfolio personal mostrando mis proyectos, tecnologías e información de contacto.",
     tecnologias: ["HTML", "TailwindCss", "React", "Vercel"],
+    code: "https://github.com/marioillan/portfolioWeb",
+    demo: "https://marioillan.vercel.app/",
   },
 ];
 

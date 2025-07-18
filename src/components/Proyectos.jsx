@@ -1,5 +1,6 @@
 import {PROYECTOS} from "../constants"
 import {motion} from "framer-motion"
+import {FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Proyectos = () => {
   return (
@@ -35,6 +36,21 @@ const Proyectos = () => {
                             </span>
 
                         ))}</p>
+                            <p className="flex gap-4 mt-4">
+                            <a className="mb-4" href={proyecto.code}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                aria-label="GitHub">
+                                <FaGithub size={35} />
+                            </a>
+                            <a href={proyecto.demo}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="bg-white rounded-full p-2 text-sm
+                             text-stone-800 mb-4 font-bold">
+                                Demo
+                            </a>
+                            </p>
                     </motion.div>
                 </div>
             ))}
