@@ -1,5 +1,6 @@
 import proyecto1 from "../assets/proyectos/proyecto1.png";
 import proyecto2 from "../assets/proyectos/proyecto2.png";
+import proyecto3 from "../assets/proyectos/proyecto3.png";
 
 export const HERO_CONTENIDO = `Soy un desarrollador full stack con una gran motivación por aprender y crecer en el mundo del desarrollo web. Me apasiona crear soluciones útiles e innovadoras, y estoy comprometido con ofrecer experiencias de usuario de calidad. Disfruto enfrentando nuevos retos y mejorando constantemente mis habilidades en tecnologías como React, Next.js, Node.js, MySQL, PostgreSQL`;
 
@@ -25,7 +26,7 @@ export const PROYECTOS = [
   },
   {
     titulo: "Web Museo Ficticio Cosmopolita",
-    imagen: proyecto1,
+    imagen: proyecto3,
     descripcion:
       "SuperComparador es una aplicación web diseñada como un proyecto de la universidad para utilizar por primera vez la funcionalidades básicas del desarrollo web.",
     tecnologias: ["HTML", "CSS", "Javascript", "Php"],
