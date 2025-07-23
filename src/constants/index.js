@@ -28,7 +28,7 @@ export const PROYECTOS = [
     titulo: "Web Museo Ficticio Cosmopolita",
     imagen: proyecto3,
     descripcion:
-      "Página web de un museo ficticio como proyecto de la universidad para utilizar por primera vez la funcionalidades básicas del desarrollo web.",
+      "Página web de un museo ficticio como proyecto de la universidad para utilizar por primera vez las funcionalidades básicas de programación web.",
     tecnologias: ["HTML", "CSS", "Javascript", "Php"],
     code: "https://github.com/marioillan/museocosmopolita",
   },
