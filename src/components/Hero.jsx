@@ -53,7 +53,7 @@ const Hero = () => {
                         tracking-tighter">
                             {HERO_CONTENIDO}
                         </motion.p>
-                        <motion.a href="/resume.pdf"
+                        <motion.a href="/marioillancurriculum.pdf"
                             variants={childVariants}
                             target="_blank"
                             rel="noopener noreferrer"

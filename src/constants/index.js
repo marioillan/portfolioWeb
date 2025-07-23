@@ -24,6 +24,14 @@ export const PROYECTOS = [
     demo: "https://supercomparador.vercel.app/",
   },
   {
+    titulo: "Web Museo Ficticio Cosmopolita",
+    imagen: proyecto1,
+    descripcion:
+      "SuperComparador es una aplicación web diseñada como un proyecto de la universidad para utilizar por primera vez la funcionalidades básicas del desarrollo web.",
+    tecnologias: ["HTML", "CSS", "Javascript", "Php"],
+    code: "https://github.com/marioillan/museocosmopolita",
+  },
+  {
     titulo: "Portfolio Web",
     imagen: proyecto2,
     descripcion:
