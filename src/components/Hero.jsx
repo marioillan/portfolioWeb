@@ -1,5 +1,4 @@
 import { HERO_CONTENIDO } from "../constants/index.js"
-{/*import imagenPerfil from "../assets/raviKumarProfile.webp   "*/}
 import {motion} from "framer-motion"
 
 const containerVariants = {

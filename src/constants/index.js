@@ -6,7 +6,7 @@ export const HERO_CONTENIDO = `Soy un desarrollador full stack con una gran moti
 
 export const EXPERIENCIAS = [
   {
-    anio: "Marzo 2025 - Actualmente",
+    anio: "Marzo 2025 - Septiembre 2025",
     rol: "Contrato de Prácticas",
     empresa: "Escuela Internacional de Posgrado, Universidad de Granada",
     descripcion: `Participación activa en el desarrollo, integración y mantenimiento de aplicaciones y servicios web. Involucrado en el rediseño y puesta en marcha de las nuevas plataformas web tanto de la Escuela Internacional de Posgrado como de la Escuela de Doctorado. `,
